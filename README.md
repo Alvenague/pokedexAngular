@@ -1,6 +1,6 @@
-# PokedexAngular
+# PokedexAngular 🦙 🦑 🐂 🐐  🕹️💻
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
+✨ The Pokédex  is an electronic device designed to catalogue and provide information regarding the various species of Pokémon.
 
 ## Development server
 
@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+🔗 Links:
+
+[CLI Overview and Command Reference](https://angular.io/cli).
+[Pokedex Definition](https://pokemon.fandom.com/wiki/Pok%C3%A9dex)
